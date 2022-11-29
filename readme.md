@@ -4,7 +4,7 @@
 
 C++ program that allow to play a crab party and handle a tournament result.
 
-See : video folder
+See : [video](https://raw.githubusercontent.com/avs-projects/Crab-Game/main/video/crab_game_presentation.mp4)
 
 ## How to run the project 
 
@@ -24,4 +24,5 @@ Select the case where you want to put your circle or your cross.
 ## Other 
 
 Project level : M1
+
 Date : 2022
